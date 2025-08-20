@@ -1,3 +1,5 @@
+package PasswordPolicy;
+
 public class PasswordPolicy {
     public static void main(String[] args) {
         if (args.length == 0) {
