@@ -1,4 +1,4 @@
-package PasswordPolicy;
+package PasswordPolicyRegex;
 
 public class PasswordPolicyRegex {
     public static void main(String[] args) {
